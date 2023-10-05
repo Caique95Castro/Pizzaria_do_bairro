@@ -31,8 +31,7 @@
             tradição napolitana, criar novidades na gastronomia paulistana, que
             se tornaram verdadeiros clássicos: Pizza Margherita, Pizza
             Napoletana, Calzone (pizza fechada), Tortano (o genuíno pão de
-            linguiça napolitano) e a Pastiera di Grano em receita exclusiva da
-            família, do jeito que se faz na região de Nápoles.
+            linguiça napolitano).
           </h3>
         </div>
         <div class="imagem-sobre-meio">
