@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-sobre{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(22, 22, 22, 2);
+    width: 100%;
+}
+
+.main-sobre{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 10rem;
+}
+.titulo-sobre-texto{
+    font-size: 2.8rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(251, 255, 0);
+}
+.texto-completo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 30px;
+}
+.texto-sobre-comppleto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 20px;
+    width: 700px;
+    padding: 20px;
+}
+.texto-1{
+    color: white;
+    margin-bottom: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.4rem;
+}
+.imagem-sobre-meio{
+    border: 1px solid rgb(251, 255, 0);
+}
+.imagem-meio-sobre{
+    width: 500px;
+    height: 500px;
+}
+
+
+.mapBox{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10rem;
+}
+.mapGoogle{
+    width: 100%;
+    height: 500px;
+}
+.titulo-map{
+    display: flex;
+    justify-content: right;
+    border-bottom: 1px solid rgb(251, 255, 0);
+    margin-bottom: 40px;
+    width: 100%;
+    padding: 0 80px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    color: rgb(251, 255, 0);
+    background-color: rgba(22, 22, 22, 0.8);
+}
+.container-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 200px;
+    gap: 30px;
+}
+.pizzaria{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-right: 1px solid rgb(86, 86, 86);
+    padding: 0 40px;
+    margin-left: -90px;
+}
+.logo {
+    font-size: 1.4rem;
+    letter-spacing: 0.4rem;
+    margin-bottom: 10px;
+  }
+.enderecos{
+    margin-bottom: 5px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.icons-icons{
+    width: 25px;
+    height: 25px;
+}
+a{
+    color: rgb(251, 255, 0);
+}
