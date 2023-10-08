@@ -22,3 +22,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# pizzaria_do_bairro" 
