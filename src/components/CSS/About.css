@@ -57,12 +57,23 @@
     width: 500px;
     height: 500px;
 }
+@media screen and (max-width: 570px){
+    .imagem-meio-sobre{
+        width: 300px;
+        height: 300px;
+    }
+}
 
 
 .mapBox{
     width: 100%;
     height: 500px;
     margin-bottom: 10rem;
+}
+@media screen and (max-width: 570px) {
+    .mapBox{
+        margin-bottom: 13rem;
+    }
 }
 .mapGoogle{
     width: 100%;
