@@ -14,7 +14,7 @@
             <form
               class="form"
               method="POST"
-              action="https://formsubmit.co/caique_ocastro@hotmail.com "
+              action="https://formsubmit.co/email.teste@teste.com "
               enctype="multipart/form-data"
             >
               <!-- ESSE input NAME:_NEXT PAGINA DE OBRIGADO POR ENVIAR  -->
@@ -25,7 +25,7 @@
               />
   
               <!-- ESSE input NAME:_CC SERIA PARA ENVIAR COM COPIA PARA O EMAIL SOLICITADO -->
-              <input type="hidden" name="_cc" value="caique.teste@teste.com" />
+              <input type="hidden" name="_cc" value="email.teste@teste.com" />
   
               <label class="nome">Nome</label>
               <input type="text" name="name" placeholder="Nome" />
