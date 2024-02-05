@@ -237,9 +237,10 @@ textarea {
     margin-top: 40px;
 }
 
-.botao-whats:hover {
+.botao-whats:hover a{
     color: rgb(251, 255, 0);
     border: 1px solid rgb(251, 255, 0);
+    text-decoration: none;
 }
 
 .link-links {
